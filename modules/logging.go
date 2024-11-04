@@ -13,6 +13,10 @@ func debugLogs() {
 	//
 }
 
+func infoLogs() {
+	//
+}
+
 func main() {
 	//
 }
