@@ -10,8 +10,9 @@ func hello(w, http.ResponseWriter, r *httpRequest) {
 	fmt.Fprintf(w, "Hello!")
 }
 
-func goodbye(w, http.ResponseWriter, r *httpRequest) {
-	fmt.Fprintf(w, "Bye!")
+
+func output() {
+	//
 }
 
 func main() {
